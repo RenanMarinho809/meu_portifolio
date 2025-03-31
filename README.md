@@ -23,7 +23,7 @@ Meu foco é criar código de fácil manutenção que resolva problemas reais e e
 
 > Uma API RESTful para informações e gerenciamento de cartas YuGiOh.
 
-🛠 **Tecnologias:** TypeScript, Node.js, Express, MongoDB  
+🛠 **Tecnologias:** TypeScript, Node.js, Express
 🔗 [Ver no GitHub](#)
 
 ---
