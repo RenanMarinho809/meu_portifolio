@@ -41,7 +41,7 @@ Meu foco é criar código de fácil manutenção que resolva problemas reais e e
 
 > API minimalista com Node.js para dados e estatísticas da Fórmula 1.
 
-🛠 **Tecnologias:** TypeScript, Node.js, Express  
+🛠 **Tecnologias:** TypeScript, Node.js, Fastify
 🔗 [Ver no GitHub](#)
 
 ---
